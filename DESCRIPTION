@@ -18,5 +18,8 @@ VignetteBuilder: knitr
 Imports: 
     tidygraph,
     dplyr,
-    tidyr
+    tidyr,
+    ggraph,
+    ggplot2,
+    lakit
 RoxygenNote: 6.1.1
